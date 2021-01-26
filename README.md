@@ -4,9 +4,9 @@
 
 ## Related Projects
 
-  - https://github.com/iron-people-fec/product_images_proxy
-  - https://github.com/iron-people-fec/review-section-proxy
-  - https://github.com/iron-people-fec/similar-items-proxy
+  - https://github.com/iron-people-fec/similar-items
+  - https://github.com/iron-people-fec/review-section
+  - https://github.com/iron-people-fec/product_images
 
 ## Table of Contents
 
