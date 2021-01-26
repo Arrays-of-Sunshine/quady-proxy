@@ -6,7 +6,7 @@
 
   - https://github.com/iron-people-fec/product_images_proxy
   - https://github.com/iron-people-fec/review-section-proxy
-  - similar-items-proxy
+  - https://github.com/iron-people-fec/similar-items-proxy
 
 ## Table of Contents
 
@@ -16,7 +16,8 @@
 
 ## Usage
 
-> Some usage instructions
+> Run `npm install` to install dependencies
+> Run `npm start` to start server
 
 ## Requirements
 

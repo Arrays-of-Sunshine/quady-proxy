@@ -1,6 +1,6 @@
 {
   "name": "iron-people-fec-general-sales-proxy",
-  "version": "1.0",
+  "version": "0.1.0",
   "description": "Eugene's proxy server for Iron People's FEC project",
   "author": "Eugene",
   "license": "",
@@ -8,8 +8,10 @@
     "node": ">=6.13.0"
   },
   "scripts": {
+    "start": "node server"
   },
   "dependencies": {
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
