@@ -1,0 +1,37 @@
+body{
+    display: grid;
+    grid-template-areas: 
+    'image sales'
+    'carousel carousel'
+    'review review';
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 750px 350px 1000px;
+    gap: 10px 10px;
+}
+
+#product_images{
+    margin-left: 20px;
+    display: block;
+    grid-area: image;
+    position: relative;
+}
+
+#sales{
+    margin-right: 20px;
+    display: block;
+    grid-area: sales;
+    position: relative;
+    margin-top: 50px;
+}
+
+#carousel{
+    display: block;
+    grid-area: carousel;
+    position: relative;
+}
+
+#bullseye-reviews{
+    display: block;
+    grid-area: review;
+    position: relative;
+}
